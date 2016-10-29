@@ -19,4 +19,8 @@ There are many photo groups on Internet and I decided to upload a photography to
 Then something happened, the picture was rejected. Reading the rules, it seems that the definition of street photography
 is more than strict than expected. Then I decided to wander around various photography groups which are classified as *street photography*.
 
+What I have seen in these groups with strict rules? A continuous stream of the same thing, a street, some people and that's it.
+So there is at least: two kind of definition of street photography. The one which is only a matter of inventory. But the most
+interesting one in my eyes is the wandering approach where you only expect the unexpected.
 
+Taking your camera and getting lost, I love this. Each second is the beginning of a new world to photograph and sometime without a street and people.
