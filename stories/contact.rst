@@ -27,6 +27,11 @@ Exhibitions
 - Soundscape and photographies - Collectif ‘brouilleurs de blanc’ - 5th edition Cuest’Art 2015 - 5-13/09/2015 Virton.
 - Photographies - Exposition en mouvement, d'encre, de terre et de lumière à Virton - Samedi 06/09/2014 et dimanche 07/09/2014.
 
+Competition
+-----------
+
+- Photographie - Femmes dans la ville (`#3 prize <http://slides.com/pointculture/femmes-dans-la-ville-concours-photo#/3>`_ ) - November 2017.
+
 License
 -------
 
