@@ -15,8 +15,20 @@ You can reach me at the following address: Alexandre Dulaunoy 10, rue du faubour
 
 My email address is: a (@) foo (.)be
 
+Publication
+-----------
+
+- Photographies - `A trip before today <http://www.foo.be/akdt/2016/a-trip-before-today_lowres.pdf>`_ - July 2016, Libramont (AKDT).
+
+Exhibitions
+-----------
+
+- Photographies - Exposition 'Si loin, si proche de la Semois' - 01/12/2015-30/01/2016 - Halle de Han (Tintigny).
+- Soundscape and photographies - Collectif ‘brouilleurs de blanc’ - 5th edition Cuest’Art 2015 - 5-13/09/2015 Virton.
+- Photographies - Exposition en mouvement, d'encre, de terre et de lumière à Virton - Samedi 06/09/2014 et dimanche 07/09/2014.
+
 License
-=======
+-------
 
 Feel free to reuse, use and abuse my pictures as long as your respect one the following free license: the CC-BY-SA license, the GNU Free Documentation License or the GNU General Public License.
 
