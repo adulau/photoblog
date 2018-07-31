@@ -1,6 +1,6 @@
-.. title: Contact
-.. slug: contact
-.. date: 2014-09-21 22:45:59 UTC+02:00
+.. title: Contact - about
+.. slug: Contact - about
+.. date: 2018-07-31 22:45:59 UTC+02:00
 .. tags: contact
 .. link: 
 .. description: How to contact me
@@ -19,6 +19,7 @@ Publication
 -----------
 
 - Photographies - `A trip before today <http://www.foo.be/akdt/2016/a-trip-before-today_lowres.pdf>`_ - July 2016, Libramont (AKDT).
+- Soundscape - `Orange - Ceramic - 01  <https://soundcloud.com/adulau/orange-ceramic-01>`_ An experimental track to support the work of the artist Marco Aranda Gonzalez. - May 2016, Virton
 
 Exhibitions
 -----------
