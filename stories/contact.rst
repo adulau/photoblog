@@ -1,6 +1,6 @@
-.. title: Contact - about
-.. slug: Contact - about
-.. date: 2018-07-31 22:45:59 UTC+02:00
+.. title: Contact
+.. slug: contact
+.. date: 2018-07-31 08:45:59 UTC+02:00
 .. tags: contact
 .. link: 
 .. description: How to contact me
