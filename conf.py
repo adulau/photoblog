@@ -184,8 +184,8 @@ TIMEZONE = "UTC+2"
 
 # Date format used to display post dates.
 # (str used by datetime.datetime.strftime)
-DATE_FORMAT = '%Y-%m-%d'
-
+#DATE_FORMAT = '%Y-%m-%d'
+DATE_FORMAT = 'YYYY-MM-dd'
 # While nikola can select a sensible locale for each language,
 # sometimes explicit control can come handy.
 # In this file we express locales in the string form that
@@ -837,6 +837,8 @@ LOGGING_HANDLERS = {
     #     'bubble': True
     # }
 }
+
+IMAGE_FOLDERS = {'images': '.' }
 
 # Templates will use those filters, along with the defaults.
 # Consult your engine's documentation on filters if you need help defining
