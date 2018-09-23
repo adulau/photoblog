@@ -7,7 +7,7 @@
 .. type: text
 .. author: Alexandre Dulaunoy
 
-.. figure:: living.jpg
+.. figure:: /posts/living.jpg
 
    Living our photographies, ƒ/22, 35mm, fagnes_ on flickr
 
@@ -19,6 +19,6 @@ This question was in my head for the past days... Photography is very different 
 
 While searching in my archive, I found a series taken in the Virton train station. Every picture is a moment but it looks like a movie. The paradox if you add all the pictures all together, this is like a video which is not.Maybe the impression is linked on how you dream, it seems you have the impression of each steps, these steps are just a moment of our lives.
 
-.. figure:: train.gif
+.. figure:: /posts/train.gif
 
    43 still pictures of a train passing who passes...

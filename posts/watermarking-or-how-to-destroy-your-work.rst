@@ -8,7 +8,7 @@
 .. author: Alexandre Dulaunoy
 
 .. _tag: https://www.flickr.com/photos/adulau/14994494530/ 
-.. figure:: tag.jpg
+.. figure:: /posts/tag.jpg
    :alt: Ma soif de savoir est...
 
    Ma soif de savoir est..., ƒ/2.5, 50mm, tag_ on flickr

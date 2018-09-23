@@ -8,7 +8,7 @@
 .. author: Alexandre Dulaunoy
 
 .. _trees: https://www.flickr.com/photos/adulau/26292095740/
-.. figure:: trees1.jpg
+.. figure:: /posts/trees1.jpg
    :alt: Lost in the trees...
 
    Lost in the trees..., ƒ/2.0, 35mm, trees_ on flickr
@@ -30,7 +30,7 @@
    Maybe my addiction is just due to the trees being the roots of many topics.
 
 .. _trees2: https://www.flickr.com/photos/adulau/26212984535/
-.. figure:: trees2.jpg
+.. figure:: /posts/trees2.jpg
    :alt: Revival of the salix
 
    Revival of the salix..., f/22, 35mm, trees2_ on flickr

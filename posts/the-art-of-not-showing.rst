@@ -14,7 +14,7 @@ There is no formula but looking back, there is something more important in photo
 But how do you do that as a photographer? Difficult question maybe when you take a picture, you are trying to reach the same level of questioning or at least allowing your pictures to open the same questionings for yourself. I'll try with some of my pictures but this is only my humble perspective...
 
 
-.. figure:: tv.jpg
+.. figure:: /posts/tv.jpg
    :alt: A dead TV
 
    A dead TV, ƒ/2.0, 135mm, tv_ on flickr
@@ -23,7 +23,7 @@ But how do you do that as a photographer? Difficult question maybe when you take
 
 I took this picture in my home village, the street is known to me. But when I saw the TV set (dropped by a neighbour for the garbage collection), this triggers many questions. Not only the simple fact of having a lost and out-of-context object in a street but the follow-up questions. Is technology so futile? Should we get rid of TV? How much garbage do we generate by just watching TV? So describing the whole reasoning why you take a picture, why you choose a specific framing... It is somehow related to this uncertainty and open questions that appears in your mind. So maybe the fact of seeing the lost TV, you see many other things.
 
-.. figure:: girls.jpg
+.. figure:: /posts/girls.jpg
    :alt: Girls talking
 
    Girls talking, ƒ/2.0, 135mm, girls_ on flickr

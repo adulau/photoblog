@@ -8,7 +8,7 @@
 .. author: Alexandre Dulaunoy
 
 .. _books: https://www.flickr.com/photos/adulau/23924473921/
-.. figure:: books.jpg
+.. figure:: /posts/books.jpg
    :alt: Belgian photographers
 
    Belgian photographers, ƒ/2.0, 35mm, books_ on flickr

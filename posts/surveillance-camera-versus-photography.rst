@@ -17,7 +17,7 @@ The increase of video surveillance was done without real complaints from the cit
 
 .. _cctv: https://www.flickr.com/photos/adulau/15680439035/
 .. _julie ferguson: http://www.julietferguson.com/cctv/
-.. figure:: cctv.jpg
+.. figure:: /posts/cctv.jpg
 
    CCTV in Paris, ƒ/2, 135mm, cctv_ on flickr
 

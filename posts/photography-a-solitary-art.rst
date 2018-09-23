@@ -26,6 +26,6 @@ time with our cameras.
 .. _I: https://www.flickr.com/photos/adulau/
 .. _selfie: ./the-difficult-exercise-of-self-portrait.html
 .. _selfiehotel: https://www.flickr.com/photos/adulau/15437538459/
-.. figure:: self.jpg
+.. figure:: /posts/self.jpg
 
    The Difficult Exercise of Self Portrait, ƒ/6.3, 35mm, selfiehotel_ on flickr

@@ -7,7 +7,7 @@
 .. type: text
 .. author: Alexandre Dulaunoy
 
-.. figure:: curtain.jpg
+.. figure:: /posts/curtain.jpg
 
    We might need to change the curtain, ƒ/22, 14mm, curtain_ on flickr
 

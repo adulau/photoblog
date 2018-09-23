@@ -7,7 +7,7 @@
 .. type: text
 .. author: Alexandre Dulaunoy
 
-.. figure:: a.jpg
+.. figure:: /posts/a.jpg
    :alt: Three a and a self-portrait_
 
 Self portrait is a difficult exercise for me. It might seems to be a kind of
@@ -24,7 +24,7 @@ to forget about their surrounding for a short period. It's a little instant wher
 they forget about the world. Taking this instant, it's kind of magic. Like the
 selfie with the lady and the goat_.
 
-.. figure:: b.jpg
+.. figure:: /posts/b.jpg
    :alt: Selfie with a goat_
 
 .. _self-portrait: http://www.flickr.com/photos/adulau/8445182447/

@@ -7,7 +7,7 @@
 .. type: text
 .. author: Alexandre Dulaunoy
 
-.. figure:: train.jpg
+.. figure:: /posts/train.jpg
 
    Every second is the beginning of something, ƒ/2.0, 35mm, train_ on flickr
 

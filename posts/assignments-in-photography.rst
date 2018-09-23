@@ -7,7 +7,7 @@
 .. type: text
 .. author: Alexandre Dulaunoy
 
-.. figure:: playbook.jpg
+.. figure:: /posts/playbook.jpg
 
    playbook, ƒ/2.2, 49mm
 

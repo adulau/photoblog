@@ -11,7 +11,7 @@ Usually interactions with people help me to get subjects for my blog posts. One 
 
 My strategy changed over time. Now, I give my camera and tell them: "Now, do some amazing pictures!". And you know what happen? I don't remember to have seen an amazing picture. Just a lot of statements like "Where is the automatic mode?" or "Where is the zoom?" or the best of the best "It's too difficult".
 
-.. figure:: bob.jpg
+.. figure:: /posts/bob.jpg
    :alt: Alex and Bob
 
    Kodak Portra 400, Hasselblad, self-portrait_ on flickr

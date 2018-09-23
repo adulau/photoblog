@@ -26,7 +26,7 @@ Very recently, I found this quote from Dennis Hopper:
 
 *I think of that with my photographs. I think of them as ‘found’ paintings because I don’t crop them, I don’t manipulate them or anything. So they’re like ‘found’ objects to me.* **Dennis Hopper**
 
-.. figure:: trainstation.jpg
+.. figure:: /posts/trainstation.jpg
    :alt: Snow and Train Station
    :align: center
 

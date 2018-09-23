@@ -8,7 +8,7 @@
 .. author: Alexandre Dulaunoy
 
 .. _catu: https://www.flickr.com/photos/adulau/28896128271
-.. figure:: cat-u.jpg
+.. figure:: /posts/cat-u.jpg
 
    cat -u, ƒ/2.0, 35mm, catu_ on flickr
 

@@ -7,7 +7,7 @@
 .. type: text
 .. author: Alexandre Dulaunoy
 
-.. figure:: surface.jpg
+.. figure:: /posts/surface.jpg
 .. _surface: https://www.flickr.com/photos/adulau/34376746461/
 .. _ref: http://press.uchicago.edu/ucp/books/book/chicago/P/bo25149795.html
 

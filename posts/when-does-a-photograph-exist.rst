@@ -13,11 +13,11 @@ After the discovery, selection and publication of the Vivian Mayer's works. Her 
 
 Sometime ago, I took some pictures in front of a graffiti from Mr. Chat in Paris:
 
-.. figure:: mrchat-contact.png
+.. figure:: /posts/mrchat-contact.png
 
 One photograph emerges from the stack, a lady lost in her thoughts hug by Mr. Chat.
 
-.. figure:: mrchat.jpg
+.. figure:: /posts/mrchat.jpg
 
    Mr. Chat liks to hug, ƒ/2.0, 135mm, mrchatflickr_ on flickr
 
@@ -29,6 +29,6 @@ The photograph was selected to be part of a series about "movement" in an exhibi
 The interesting part is that another artist (Jean-Luc Stiernon) got the print of the picture. He even draw
 a representation of the photograph in a drawing. A kind of meta-art.
 
-.. figure:: jeanluc.jpg
+.. figure:: /posts/jeanluc.jpg
 
 If the initial selection was not made, such dynamic will never exist.

@@ -7,7 +7,7 @@
 .. type: text
 .. author: Alexandre Dulaunoy
 
-.. figure:: series-mirror/final.jpg
+.. figure:: /posts/series-mirror/final.jpg
 
    Moving duplicity, ƒ/4.5, 35mm, movingduplicity_ on flickr
 
@@ -22,11 +22,11 @@ Everything is an image and mirrors are here to duplicate the representation of o
 At the entrance, there is a small area where basically you cannot be seen in the mirror (at first sight). I waited there with my camera especially to catch the movement of people and especially trying to get the two perspective of a same person.
 
 
-.. figure:: series-mirror/6R3B4413-s.JPG
-.. figure:: series-mirror/6R3B4414-s.JPG
-.. figure:: series-mirror/6R3B4416-s.JPG
-.. figure:: series-mirror/6R3B4418-s.JPG
-.. figure:: series-mirror/6R3B4419-s.JPG
+.. figure:: /posts/series-mirror/6R3B4413-s.JPG
+.. figure:: /posts/series-mirror/6R3B4414-s.JPG
+.. figure:: /posts/series-mirror/6R3B4416-s.JPG
+.. figure:: /posts/series-mirror/6R3B4418-s.JPG
+.. figure:: /posts/series-mirror/6R3B4419-s.JPG
 
 I kept and crop the movingduplicity_ because the movement was a kind of integral part of the whole picture. Due to the setup, I couldn't frame exactly the picture as I wanted during the shooting. So I decided to crop the upper and right part to split the frame between the mirror and its other part.
 

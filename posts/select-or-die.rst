@@ -25,7 +25,7 @@ For the following tree (that I knew for the past few years), such profile is qui
 
 With the surrounding constraints, the tree develops itself and grew. Initially, I wanted to show the contrast between the wildlife and the control of nature. As seen in picture 1, the tree was more far away and you can see the field. But the contrast between the two was not too well marked. On picture 2 and 3, the river helps to stress the contrast between the two parts. If you look carefully, you might see the small path where animals are using to pass by.
 
-.. figure:: choisir.png
+.. figure:: /posts/choisir.png
    :alt: 3 pictures of the same tree
 
    I took 3 pictures but which one to select?
@@ -34,7 +34,7 @@ Why did I select the picture 3 at the end? Because the grasses in front are more
 more the contrast between the nature and the controlled nature.
 
 .. _trees: https://www.flickr.com/photos/adulau/sets/72157626083564097/
-.. figure:: select.jpg
+.. figure:: /posts/select.jpg
    :alt: Morning Trees
 
    Morning Trees, ƒ/9.0, 14mm, morningtrees_ on flickr
