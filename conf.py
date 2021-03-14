@@ -154,7 +154,7 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("https://www.flickr.com/photos/adulau/","Flickr"),
-        ("/stories/contact.html", "Contact"),
+        ("/stories/contact/", "Contact"),
         ("/rss.xml", "RSS feed"),
     ),
 }
