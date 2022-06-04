@@ -1,6 +1,6 @@
 .. title: Contact
 .. slug: contact
-.. date: 2018-07-31 08:45:59 UTC+02:00
+.. date: 2021-12-31 08:45:59 UTC+02:00
 .. tags: contact
 .. link: 
 .. description: How to contact me
@@ -24,6 +24,7 @@ Publication
 Exhibitions
 -----------
 
+- Soundscape and photography - Exposition 'Trans Nature' with Collection 'brouilleurs de blanc' - 10th edition of Cuest'Art 2021 - Virton
 - Photographies - Exposition 'Si loin, si proche de la Semois' - 01/12/2015-30/01/2016 - Halle de Han (Tintigny).
 - Soundscape and photographies - Collectif ‘brouilleurs de blanc’ - 5th edition Cuest’Art 2015 - 5-13/09/2015 Virton.
 - Photographies - Exposition en mouvement, d'encre, de terre et de lumière à Virton - Samedi 06/09/2014 et dimanche 07/09/2014.
