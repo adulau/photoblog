@@ -18,13 +18,15 @@ My email address is: a (@) foo (.)be
 Publication
 -----------
 
-- Photographies - `A trip before today <http://www.foo.be/akdt/2016/a-trip-before-today_lowres.pdf>`_ - July 2016, Libramont (AKDT).
-- Soundscape - `Orange - Ceramic - 01  <https://soundcloud.com/adulau/orange-ceramic-01>`_ An experimental track to support the work of the artist Marco Aranda Gonzalez. - May 2016, Virton
+- Photography - `Nature will take over <http://www.foo.be/art/leaflet.pdf>`_ - September 2022, Centre Culturel de Rossignol._
+- Photographies - `A trip before today <https://www.foo.be/akdt/2016/a-trip-before-today_lowres.pdf>`_ - July 2016, Libramont (AKDT).
+- Soundscape - `Orange - Ceramic - 01  <https://soundcloud.com/adulau/orange-ceramic-01>`_ An experimental track to support the work of the artist Marco Aranda Gonzalez. - May 2016, Virton.
 
 Exhibitions
 -----------
 
-- Soundscape and photography - Exposition 'Trans Nature' with Collection 'brouilleurs de blanc' - 10th edition of Cuest'Art 2021 - Virton
+- Photography and soundscape - Exposition 'Nature will take over' - Centre Culturel de Rossignol - 5th September 2022 - Rossignol. 
+- Soundscape and photography - Exposition 'Trans Nature' with Collection 'brouilleurs de blanc' - 10th edition of Cuest'Art 2021 - Virton.
 - Photographies - Exposition 'Si loin, si proche de la Semois' - 01/12/2015-30/01/2016 - Halle de Han (Tintigny).
 - Soundscape and photographies - Collectif ‘brouilleurs de blanc’ - 5th edition Cuest’Art 2015 - 5-13/09/2015 Virton.
 - Photographies - Exposition en mouvement, d'encre, de terre et de lumière à Virton - Samedi 06/09/2014 et dimanche 07/09/2014.
