@@ -1,6 +1,6 @@
 .. title: Contact
 .. slug: contact
-.. date: 2021-12-31 08:45:59 UTC+02:00
+.. date: 2022-03-04 08:45:59 UTC+02:00
 .. tags: contact
 .. link: 
 .. description: How to contact me
@@ -18,7 +18,7 @@ My email address is: a (@) foo (.)be
 Publication
 -----------
 
-- Photography - `Nature will take over <http://www.foo.be/art/leaflet.pdf>`_ - September 2022, Centre Culturel de Rossignol._
+- Photography - `Nature will take over <http://www.foo.be/art/leaflet_lowres.pdf>`_ - September 2022, Centre Culturel de Rossignol.
 - Photographies - `A trip before today <https://www.foo.be/akdt/2016/a-trip-before-today_lowres.pdf>`_ - July 2016, Libramont (AKDT).
 - Soundscape - `Orange - Ceramic - 01  <https://soundcloud.com/adulau/orange-ceramic-01>`_ An experimental track to support the work of the artist Marco Aranda Gonzalez. - May 2016, Virton.
 
