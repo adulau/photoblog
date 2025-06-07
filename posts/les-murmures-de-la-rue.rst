@@ -135,7 +135,7 @@ On a toujours l’image d’un lecteur installé calmement près d’un feu. Mai
 
    `on reading`_, "On Reading", Arles 2024
 
-Si cette petite déambulation photographique vous a plu, les photographies seront visibles au `Bar à Goûts`_, à Jamoigne, en Belgique, du 12 juillet 2025 au 3 août 2025. Le vernissage aura lieu le samedi 12 juillet à partir 18 h.
+Si cette petite déambulation photographique vous a plu, les photographies seront visibles au `Bar à Goûts`_, à Jamoigne, en Belgique, du vendredi 18 juillet 2025 au dimanche 10 août 2025. Le vernissage aura lieu le vendredi 18 juillet à partir 18 h.
 
 .. [#dactylo] La Dactylo_, c’est une poète et street-artiste : elle joue avec les mots et couvre les murs de plusieurs villes en France.
 
